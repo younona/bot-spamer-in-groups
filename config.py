@@ -1,0 +1,5 @@
+API_ID = "28040026"
+API_HASH = "cd13b40ba9873c425f78dce71a11b1e9"
+SESSION_NAME = "session"
+DATA_DIR = "data"
+PASSWORD = "Md_twix25$"
